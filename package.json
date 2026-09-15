@@ -1,0 +1,12 @@
+{
+  "name": "vcvox-client",
+  "version": "1.0.0",
+  "description": "VOICEVOX API Client with Node.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "speakers": "node list-speakers.js",
+    "start": "node web-server.js"
+  }
+}

@@ -35,6 +35,19 @@ export const DEFAULT_DICTIONARY = [
   { pattern: /1本のハンマー/g, replacement: "いっぽんのハンマー", reason: "Đọc chuẩn lượng từ いっぽん (ippon)" },
   { pattern: /水深(\d+)\s*(?:m|メートル)/g, replacement: "すいしん$1メートル", reason: "Khóa chuẩn âm đọc độ sâu (Suishin)" },
   { pattern: /地下(\d+)\s*(?:m|メートル)/g, replacement: "地下、$1メートル", reason: "Thêm dấu phẩy tách nhịp số đo (tránh nối âm chijū)" },
+
+  // Bổ sung: Sửa lỗi phát âm cho kịch bản khảo cổ / lịch sử
+  { pattern: /最初の槌/g, replacement: "最初のつち", reason: "Sửa chữ 槌 đọc sai thành ズチ (zuchi) -> つち (tsuchi)" },
+  { pattern: /脱出口/g, replacement: "だっしゅつぐち", reason: "Sửa chữ 脱出口 đọc nhầm thành ダツデグチ (thừa âm) -> だっしゅつぐち" },
+  { pattern: /墓坑/g, replacement: "ぼこう", reason: "Khóa âm đọc hầm mộ ぼこう (tránh đọc nôm na thành hakaana)" },
+  { pattern: /ヴァラ/g, replacement: "ヴアラ", reason: "Chuyển ヴァラ sang ヴアラ để Voicevox đọc chuẩn âm V (Vara), không bị biến thành Ba (Bara)" },
+  { pattern: /深井戸/g, replacement: "深い井戸", reason: "Sửa chữ 深井戸 bị đọc lộn xộn thành fukai-to -> 深い井戸 (fukai ido/giếng sâu)" },
+  { pattern: /燻り殺される/g, replacement: "、いぶり殺される", reason: "Sửa chữ 燻り殺される đọc sai thành kusuburi -> iburikorosareru (hun khói đến chết)" },
+  { pattern: /開口部/g, replacement: "かいこうぶ", reason: "Sửa 開口部 đọc sai thành hirakikoobu -> かいこうぶ (kaikoubu - miệng mở/cửa giếng)" },
+  { pattern: /生と死/g, replacement: "せいとし", reason: "Sửa 生と死 đọc sai thành nama to shi -> せいとし (sei to shi - sống và chết)" },
+  { pattern: /氷期/g, replacement: "ひょうき", reason: "Sửa 氷期 đọc sai thành gooriki -> ひょうき (hyouki - kỷ băng hà)" },
+  { pattern: /通気坑/g, replacement: "つうきこう", reason: "Sửa 通気坑 đọc nôm na thành tsuukiana -> つうきこう (thuật ngữ hầm/công trình)" },
+  { pattern: /一寒村/g, replacement: "いっかんそん", reason: "Sửa 一寒村 đọc sai thành ichikanson -> いっかんそん (ikkanson - một ngôi làng nghèo heo lánh)" },
 ];
 
 /**

@@ -4,6 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { VOICEVOX_API_URL } from "./config.js";
 import { getSpeakers, speakToFile } from "./voicevox.js";
+import { optimizeJapaneseScript } from "./text-optimizer.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -25,13 +26,31 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  // 2. API tạo giọng nói
+  // 2. API Xem trước tối ưu hóa kịch bản (Preview Text Optimizer)
+  if (reqUrl.pathname === "/api/optimize-preview" && req.method === "POST") {
+    let body = "";
+    req.on("data", chunk => body += chunk);
+    req.on("end", () => {
+      try {
+        const { text } = JSON.parse(body);
+        const result = optimizeJapaneseScript(text || "");
+        res.writeHead(200, { "Content-Type": "application/json" });
+        res.end(JSON.stringify(result));
+      } catch (err) {
+        res.writeHead(400, { "Content-Type": "application/json" });
+        res.end(JSON.stringify({ error: err.message }));
+      }
+    });
+    return;
+  }
+
+  // 3. API tạo giọng nói
   if (reqUrl.pathname === "/api/synthesize" && req.method === "POST") {
     let body = "";
     req.on("data", chunk => body += chunk);
     req.on("end", async () => {
       try {
-        const { text, speakerId, speedScale, pitchScale, intonationScale } = JSON.parse(body);
+        const { text, speakerId, speedScale, pitchScale, intonationScale, optimize } = JSON.parse(body);
         if (!text) {
           res.writeHead(400, { "Content-Type": "application/json" });
           return res.end(JSON.stringify({ error: "Text không được để trống" }));
@@ -39,11 +58,12 @@ const server = http.createServer(async (req, res) => {
 
         const audioBuffer = await speakToFile({
           text,
-          speakerId: Number(speakerId) || 3,
-          speedScale: Number(speedScale) || 1.0,
-          pitchScale: Number(pitchScale) || 0.0,
-          intonationScale: Number(intonationScale) || 1.0,
-          outputPath: null // không cần lưu file tạm nếu chỉ stream về trình duyệt
+          speakerId: Number(speakerId) || 13,
+          speedScale: Number(speedScale) || 1.1,
+          pitchScale: Number(pitchScale) || -0.02,
+          intonationScale: Number(intonationScale) || 1.1,
+          optimize: optimize !== false,
+          outputPath: null
         });
 
         res.writeHead(200, {
@@ -59,7 +79,7 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  // 3. Phục vụ file giao diện tĩnh index.html
+  // 4. Phục vụ file giao diện tĩnh index.html
   if (reqUrl.pathname === "/" || reqUrl.pathname === "/index.html") {
     try {
       const filePath = path.join(__dirname, "public", "index.html");
@@ -78,6 +98,7 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`🌐 Web UI đã sẵn sàng tại: http://localhost:${PORT}`);
+  console.log(`🌐 Web Studio đã sẵn sàng tại: http://localhost:${PORT}`);
   console.log(`🔗 Đang kết nối tới Colab API: ${VOICEVOX_API_URL}`);
+  console.log(`⚡ Đã kích hoạt bộ tối ưu hóa kịch bản tiếng Nhật (Anti-Glitch/Kanji G2P)!`);
 });

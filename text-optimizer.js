@@ -36,7 +36,7 @@ export const DEFAULT_DICTIONARY = [
   { pattern: /水深(\d+)\s*(?:m|メートル)/g, replacement: "すいしん$1メートル", reason: "Khóa chuẩn âm đọc độ sâu (Suishin)" },
   { pattern: /地下(\d+)\s*(?:m|メートル)/g, replacement: "地下、$1メートル", reason: "Thêm dấu phẩy tách nhịp số đo (tránh nối âm chijū)" },
 
-  // Bổ sung: Sửa lỗi phát âm cho kịch bản khảo cổ / lịch sử
+  // Bổ sung: Sửa lỗi phát âm cho kịch bản khảo cổ / lịch sử / khoa học
   { pattern: /最初の槌/g, replacement: "最初のつち", reason: "Sửa chữ 槌 đọc sai thành ズチ (zuchi) -> つち (tsuchi)" },
   { pattern: /脱出口/g, replacement: "だっしゅつぐち", reason: "Sửa chữ 脱出口 đọc nhầm thành ダツデグチ (thừa âm) -> だっしゅつぐち" },
   { pattern: /墓坑/g, replacement: "ぼこう", reason: "Khóa âm đọc hầm mộ ぼこう (tránh đọc nôm na thành hakaana)" },
@@ -48,6 +48,11 @@ export const DEFAULT_DICTIONARY = [
   { pattern: /氷期/g, replacement: "ひょうき", reason: "Sửa 氷期 đọc sai thành gooriki -> ひょうき (hyouki - kỷ băng hà)" },
   { pattern: /通気坑/g, replacement: "つうきこう", reason: "Sửa 通気坑 đọc nôm na thành tsuukiana -> つうきこう (thuật ngữ hầm/công trình)" },
   { pattern: /一寒村/g, replacement: "いっかんそん", reason: "Sửa 一寒村 đọc sai thành ichikanson -> いっかんそん (ikkanson - một ngôi làng nghèo heo lánh)" },
+  { pattern: /1万5000本/g, replacement: "いちまんごせんぼん", reason: "Khóa âm đọc chuẩn lượng từ 1万5000本 (ichiman gosenbon)" },
+  { pattern: /素焼き皿/g, replacement: "すやきざら", reason: "Khóa âm đĩa đất nung すやきざら (suyakizara)" },
+  { pattern: /煮炊き/g, replacement: "にたき", reason: "Khóa âm nấu nướng にたき (nitaki)" },
+  { pattern: /籠城/g, replacement: "ろうじょう", reason: "Khóa âm cố thủ trong thành ろうじょう (roujou)" },
+  { pattern: /凝灰岩/g, replacement: "ぎょうかいがん", reason: "Khóa âm đá núi lửa ぎょうかいがん (gyoukaigan)" },
 ];
 
 /**

@@ -70,9 +70,9 @@ export async function synthesizeVoice(audioQuery, speakerId = 3, apiUrl = VOICEV
  * @param {object} options
  * @param {string} options.text - Câu tiếng Nhật
  * @param {number} [options.speakerId=13] - ID giọng nhân vật (13: Aoyama Ryusei)
- * @param {number} [options.speedScale=1.1] - Tốc độ nói (Tỉ lệ vàng phim tài liệu 1.1x - 1.15x)
+ * @param {number} [options.speedScale=1.05] - Tốc độ nói (Tỉ lệ vàng phim tài liệu 1.03x - 1.08x)
  * @param {number} [options.pitchScale=-0.02] - Cao độ tông giọng (-0.15 đến 0.15)
- * @param {number} [options.intonationScale=1.1] - Mức độ nhấn nhá cảm xúc (1.0 đến 1.5)
+ * @param {number} [options.intonationScale=1.15] - Mức độ nhấn nhá cảm xúc (1.0 đến 1.5)
  * @param {number} [options.volumeScale=1.0] - Âm lượng (1.0)
  * @param {string} [options.outputPath="output.wav"] - Đường dẫn lưu file .wav
  * @param {boolean} [options.optimize=true] - Bật tối ưu hóa kịch bản
@@ -80,9 +80,9 @@ export async function synthesizeVoice(audioQuery, speakerId = 3, apiUrl = VOICEV
 export async function speakToFile({
   text,
   speakerId = 13,
-  speedScale = 1.1,
+  speedScale = 1.05,
   pitchScale = -0.02,
-  intonationScale = 1.1,
+  intonationScale = 1.15,
   volumeScale = 1.0,
   outputPath = "output.wav",
   optimize = true,

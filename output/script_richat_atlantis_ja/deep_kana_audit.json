@@ -1,0 +1,5735 @@
+[
+  {
+    "index": 1,
+    "text": "西アフリカ・モーリタニアの広大で過酷なサハラ砂漠のただ中には、地上に立つと果てしない砂丘に幻惑され、その存在に全く気づくことのできない奇妙な地質構造が存在します。",
+    "kana": "ニシア'フリカ、モオリタ'ニアノ/コオダイデ'/カコクナ'/サハラサ'バクノ/タダ'ナカニワ、チジョオニ'/タ'_ツト/ハテシナ'イ/サキュウニ'/ゲンワ_ク'/サレ'、ソノ'/ソンザイニ'/マッタ_ク'/キズ'_ク/コト'ノ/デキ'ナイ/キ'ミョオナ/_チシ_ツコ'オゾオガ/ソンザイ'/シマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ニシアフリカ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モオリタニアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオダイデ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カコクナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラサバクノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タダナカニワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チジョオニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タツト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハテシナイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サキュウニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンワク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マッタク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キズク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デキナイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キミョオナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツコオゾオガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "text": "しかし、高度400キロメートルの国際宇宙ステーションから見下ろすと、そこには息をのむような光景が広がります。完璧な同心円を描く巨大な青い瞳が、宇宙をじっと見つめ返しているのです。",
+    "kana": "_シカ'シ、コ'オド/ヨンヒャッキロメ'エトルノ/コ_クサイウチュウ_ステ'エションカラ/ミオロ_スト'、ソコニワ'/イ'キオ/ノ'ム/ヨ'オナ/コオケエガ'/ヒロガリマ'_ス、カンペキナ'/ドオシ'ンエンオ/エガ'_ク/キョダイナ'/アオ'イ/_ヒトミガ'、ウ'チュウオ/ジット'/ミツメガエ_シテ'/イル'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "シカシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオド",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンヒャッキロメエトルノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コクサイウチュウステエションカラ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミオロスト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソコニワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イキオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノム",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオケエガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒロガリマス",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンペキナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドオシンエンオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エガク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アオイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒトミガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウチュウオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジット",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミツメガエシテ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "text": "1965年のジェミニ4号ミッションで宇宙飛行士によって初めて発見され、「サハラの目」、あるいは「リシャット構造」と名付けられたこの地質ドームのがいえんぶは、直径40キロメートル以上という途方もない大きさを誇ります。",
+    "kana": "セ'ン/キュ'ウヒャク/ロクジュウ'/ゴ'ネンノ/ジェミニヨン'ゴオ/ミ'ッションデ/ウチュウ_ヒコオ'シニ/ヨッテ'/ハジ'メテ/ハッケン'/サレ'、サ'ハラノ/メ'、アル'イワ、リシャットコ'オゾオ、ト'/ナズケ'ラレタ/コノ'/_チシツド'オムノ/ガイエ'ンブワ、チョッケエ'/ヨンジュッキロメ'エトル/イ'ジョオト/イウ'/トホオモ'/ナイオオキ'サオ/ホコリマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "セン",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キュウヒャク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロクジュウ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゴネンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジェミニヨンゴオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミッションデ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウチュウヒコオシニ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨッテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハジメテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アルイワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットコオゾオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナズケラレタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツドオムノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガイエンブワ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョッケエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンジュッキロメエトル",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イジョオト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トホオモ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナイオオキサオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホコリマス",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "text": "発見の一報が世界に伝えられた瞬間から、サハラの目は、20世紀における最も熱い科学的論争の火種となりました。",
+    "kana": "ハッケンノ'/イッポオガ'/セ'カイニ/_ツタエラレタ'/シュンカンカラ'、サ'ハラノ/メ'ワ、ニ'ジュッセエキニ/オケル'/モット'モ/アツ'イ/カガク'テキ/ロンソオノ'/ヒダネト'/ナリマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "ハッケンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッポオガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セカイニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツタエラレタ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュンカンカラ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュッセエキニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オケル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モットモ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アツイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カガクテキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロンソオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒダネト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナリマシタ",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "text": "初期の地質学者たちは先史時代の巨大隕石の衝突痕、いわゆるクレーターだと信じていましたが、現地からは隕石の破片も、超高圧変成鉱物の証拠も一切発見されませんでした。",
+    "kana": "ショ'キノ/_チシツガ_クシャ'タチワ/センシジ'ダイノ/キョダイ'/イ'ンセキノ/ショオトツ'コン、イワユ'ル/クレ'エタアダト/シンジ'テ/イマ'_シタガ、ゲ'ン_チカラワ/イ'ンセキノ/ハヘンモ'、チョオコオア_ツヘンセエコ'オブツノ/ショオコモ'/イ'ッサイ/ハッケン'/サレマセ'ンデ_シタ",
+    "accentPhrases": [
+      {
+        "moras": "ショキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツガクシャタチワ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センシジダイノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "インセキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオトツコン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イワユル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クレエタアダト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンジテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマシタガ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンチカラワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "インセキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハヘンモ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョオコオアツヘンセエコオブツノ",
+        "accent": 11,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオコモ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッサイ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレマセンデシタ",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "text": "しかし、独立系研究者たちがNASAの衛星レーダーひょうこうマップを、2400年前に古代ギリシャの哲学者プラトンが残した古文書と照らし合わせた時、世界を揺るがす仮説が浮上したのです。",
+    "kana": "_シカ'シ、ドクリツ'ケエ/ケンキュウシャ'タチガ/ナ'サノ/エエセエレエダアヒョオコオマ'ップオ、ニセ'ン/ヨンヒャク'ネン/マ'エニ/コダイギ'リシャノ/テツガ_クシャ'/プ'ラトンガ/ノコ'_シタ/コモンジョト'/テラシアワセ'タ/トキ'、セ'カイオ/ユルガ'_ス/カセツガ'/フジョオ'/_シタ'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "シカシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドクリツケエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンキュウシャタチガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナサノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエセエレエダアヒョオコオマップオ",
+        "accent": 13,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニセン",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンヒャクネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイギリシャノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テツガクシャ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノコシタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コモンジョト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テラシアワセタ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トキ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セカイオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ユルガス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カセツガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フジョオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "text": "精密な測定数値、地形の特徴、水源、岩石の色、さらには植生に至るまで…サハラの目のすべてが、失われた伝説の帝国「アトランティス」の首都の描写と戦慄するほど一致していました。",
+    "kana": "セエミツナ'/ソ_クテエス'ウチ、_チケエノ'/ト_クチョオ'、スイゲン'、ガ'ンセキノ/イロ'、サ'ラニワ/ショ_クセエニ'/イタ'ルマデ、サ'ハラノ/メ'ノ/ス'ベテガ、ウシナワレタ'/デンセツノ'/テエコク'、アトラ'ン_ティス、ノ'/シュ'トノ/ビョオシャト'/センリ_ツ'/スルホド'/イッチ'/_シテ'/イマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "セエミツナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソクテエスウチ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チケエノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トクチョオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイゲン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガンセキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イロ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サラニワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショクセエニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタルマデ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スベテガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウシナワレタ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デンセツノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テエコク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュトノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ビョオシャト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センリツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スルホド",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッチ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "text": "果たして人類は数千年もの間、深海底ばかりを探し回るという錯覚に囚われ、その真の痕跡が西アフリカの灼熱の砂の海に横たわっていることを見落としていたのでしょうか？",
+    "kana": "ハタ'_シテ/ジ'ンルイワ/スウセンネンモノカ'ン、シンカイテエバ'カリオ/サガシマワ'ルト/イウ'/サッカクニ'/トラワレ'、ソノ'/シ'ンノ/コンセキガ'/ニシア'フリカノ/シャクネツノ'/スナノ'/ウ'ミニ/ヨコタワ'ッテ/イル'/コト'オ/ミオト_シテ'/イタ'/ノデショオ'カ？",
+    "accentPhrases": [
+      {
+        "moras": "ハタシテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジンルイワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウセンネンモノカン",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンカイテエバカリオ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サガシマワルト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サッカクニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トラワレ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コンセキガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニシアフリカノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シャクネツノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スナノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウミニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨコタワッテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミオトシテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデショオカ",
+        "accent": 4,
+        "isInterrogative": true
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "text": "アトランティスに関するすべての歴史的手がかりは、紀元前360年頃に哲学者プラトンが著した二大対話編『テイマイオス』と『クリティアス』にたんを発します。",
+    "kana": "アトラ'ン_ティスニ/カンス'ル/ス'ベテノ/レ_キシ'テ_キ/テガ'カリワ、キゲ'ンゼン/サ'ンビャク/ロクジュウネン'ゴロニ/テツガ_クシャ'/プ'ラトンガ/アラワ'_シタ/ニ'/ダイタイワ'ヘン、テ'イ/マイ'オス、ト'、クリティ'アス、ニ'/タ'ンオ/ハッシマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "アトランティスニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンスル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スベテノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レキシテキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テガカリワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キゲンゼン",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンビャク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロクジュウネンゴロニ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テツガクシャ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アラワシタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイタイワヘン",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テイ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マイオス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クリティアス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッシマス",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "text": "プラトンは、この物語が単なる架空の寓話ではなく、偉大な立法者ソロンがエジプトを訪問した際に持ち帰った本物の歴史記録であると明言しています。",
+    "kana": "プ'ラトンワ、コノ'/モノガ'タリガ/タ'ンナル/カクウノ'/グウワデワナク'、イダイナ'/リッポオシャ'/ソ'ロンガ/エジ_プトオ'/ホオモン'/_シタ'/サ'イニ/モ_チカ'エッタ/ホンモノノ'/レ_キシキ'ロクデアルト/メエゲ'ン/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モノガタリガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンナル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カクウノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "グウワデワナク",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リッポオシャ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソロンガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エジプトオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホオモン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サイニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モチカエッタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホンモノノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レキシキロクデアルト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メエゲン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "text": "古代都市サイスにおいて、ネイト女神神殿の最高神官たちは恐るべき秘密を明かしました。ソロンの時代から9000年前、すなわち現代から約1万1600年前、かつて高度な海洋文明が存在し、一夜にして完全に滅亡したというのです。",
+    "kana": "コダイト_シサ'イスニ/オ'イテ、ネイトメガミシ'ンデンノ/サイコオシンカン'タチワ/オソ'レルベ_キ/ヒミツオ'/アカシマ'_シタ、ソ'ロンノ/ジダイカラ'/キュウセン'ネン/マ'エ、スナ'ワチ/ゲ'ンダイカラ/ヤ'ク/イチマ'ンセン/ロッピャク'ネン/マ'エ、カ'_ツテ/コ'オドナ/カイヨオブ'ンメエガ/ソンザイ'/シ'、イチ'ヤニ/_シテ'/カンゼンニ'/メツボオ'/_シタ'ト/イウ'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "コダイトシサイスニ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オイテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ネイトメガミシンデンノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サイコオシンカンタチワ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オソレルベキ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒミツオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アカシマシタ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソロンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジダイカラ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キュウセンネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スナワチ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンダイカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヤク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチマンセン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロッピャクネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カツテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオドナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイヨオブンメエガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチヤニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンゼンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メツボオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "text": "対話編『クリティアス』の中で、プラトンはアトランティスの首都に関する驚くほど精緻な幾何学的構造を残しています。それは島を中心に、3つの環状水路と2つの環状陸地が交互に取り囲む完璧な同心円状の都市でした。",
+    "kana": "タイワ'ヘン、クリティ'アス、ノ'/ナ'カデ、プ'ラトンワ/アトラ'ン_ティスノ/シュ'トニ/カンス'ルオドロ_クホド/セ'エチナ/_キカガク'テ_キ/コオゾオオ'/ノコ'_シテ/イマ'_ス、ソレワ'/シマ'オ/チュウシンニ'、ミッツ'ノ/カンジョオス'イロト/_フタツ'ノ/カンジョオリ'_クチガ/コ'オゴニ/トリカコム'/カンペキナ'/ドオシンエンジョオノ'/ト'シデ_シタ",
+    "accentPhrases": [
+      {
+        "moras": "タイワヘン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クリティアス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナカデ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュトニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンスルオドロクホド",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエチナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キカガクテキ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオゾオオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノコシテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソレワ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミッツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオスイロト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フタツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオリクチガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオゴニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トリカコム",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンペキナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドオシンエンジョオノ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トシデシタ",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 13,
+    "text": "現代のリシャット構造のリモートセンシング地形図を観察すると、この独特な幾何学模様が鮮明に浮かび上がります。同心円状に隆起した岩の隆起線が、中心核を包むように3つの環状の窪地と2つの環状の尾根を形成しているのです。",
+    "kana": "ゲ'ンダイノ/リシャットコ'オゾオノ/リモオトセンシング_チケエ'ズオ/カンサ_ツ'/スルト'、コノ'/ド_クトクナ'/_キカ'ガク/モヨオガ'/センメエニ'/ウカビアガリマ'_ス、ドオシンエンジョオニ'/リュ'ウキ/_シタ'/イワ'ノ/リュウ_キセンガ'、チュウシン'カクオ/_ツツ'ム/ヨ'オニ/ミッツ'ノ/カンジョオノ'/クボ_チト'/_フタツ'ノ/カンジョオノ'/オ'ネオ/ケエセエ'/_シテ'/イル'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ゲンダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットコオゾオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リモオトセンシングチケエズオ",
+        "accent": 12,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンサツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スルト",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドクトクナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キカガク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モヨオガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センメエニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウカビアガリマス",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドオシンエンジョオニ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リュウキ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イワノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リュウキセンガ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンカクオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツツム",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミッツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クボチト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フタツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オネオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケエセエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 14,
+    "text": "しかし、数学者や考古学者たちを最も震撼させたのは、1マイルの狂いもないその幾何学的な寸法でした。",
+    "kana": "_シカ'シ、スウガ_クシャヤ'/コオコガ_クシャ'タチオ/モット'モ/シンカン'/サセタ'/ノワ'、イチマ'イルノ/クル'イモナイ/ソノ'/_キカガク'テキナ/スンポオデ_シタ'",
+    "accentPhrases": [
+      {
+        "moras": "シカシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウガクシャヤ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオコガクシャタチオ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モットモ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンカン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サセタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチマイルノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クルイモナイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キカガクテキナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スンポオデシタ",
+        "accent": 7,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 15,
+    "text": "プラトンは明記しています。アトランティス都市の最外周の直径は「127スタディオン」、古代ギリシャで広く用いられた長さの単位であると。",
+    "kana": "プ'ラトンワ/メ'エキ/_シテ'/イマ'_ス、アトラン_ティス'トシノ/サイガ'イシュウノ/チョッケエワ'、ヒャク'/ニ'ジュウ/ナナ_スタ'ディオン、コダイギ'リシャデ/ヒロ'クモチイラレタ/ナガ'サノ/タ'ンイデアルト",
+    "accentPhrases": [
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メエキ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティストシノ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サイガイシュウノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョッケエワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒャク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナナスタディオン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイギリシャデ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒロクモチイラレタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナガサノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンイデアルト",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 16,
+    "text": "127スタディオンを現代のメートル法に換算すると、およそ「23点5キロメートル」になります。",
+    "kana": "ヒャク'/ニ'ジュウ/ナナ_スタ'ディオンオ/ゲ'ンダイノ/メエトルホオニ'/カンサン'/スルト'、オヨソ'、ニ'ジュウ/サン'テン/ゴキロメ'エトル、ニ'/ナリマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ヒャク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナナスタディオンオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メエトルホオニ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンサン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スルト",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オヨソ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンテン",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゴキロメエトル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナリマス",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 17,
+    "text": "リシャット構造全体の地質ドームは直径40キロメートル以上あるため、当初は疑問視されていました。しかし研究者たちが衛星測定を用いて「中心核を取り囲む主要な環状城壁構造」を精密に測ったところ、画面に表示された数値は驚くべきことに「22から24キロメートル」、プラトンの127スタディオンと戦慄するほど正確に一致したのです！",
+    "kana": "リシャットコ'オゾオ/ゼンタイノ'/_チシツド'オムワ/チョッケエ'/ヨンジュッキロメ'エトル/イ'ジョオ/ア'ル/タメ'、ト'オショワ/ギモン'_シ/サレテ'/イマ'_シタ、_シカ'_シ/ケンキュウシャ'タチガ/エエセエソ'_クテエオ/モチイ'テ、チュウシン'カクオ/トリカコム'/シュヨオナ'/カンジョオジョオヘ_キコ'オゾオ、オ'/セエミツニ'/ハカ'ッタ/トコロ'、ガメンニ'/ヒョオジ'/サレタ'/ス'ウチワ/オドロ'クベ_キ/コト'ニ、ニ'ジュウ/ニ'カラ/ニ'ジュウ/ヨンキロメ'エトル、プ'ラトンノ/ヒャク'/ニ'ジュウ/ナナ_スタ'ディオント/センリ_ツ'/スルホド'/セエカクニ'/イッチ'/_シタ'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "リシャットコオゾオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゼンタイノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツドオムワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョッケエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンジュッキロメエトル",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イジョオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タメ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トオショワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ギモンシ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シカシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンキュウシャタチガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエセエソクテエオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モチイテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンカクオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トリカコム",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュヨオナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオジョオヘキコオゾオ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエミツニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハカッタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トコロ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガメンニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒョオジ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウチワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オドロクベキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンキロメエトル",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒャク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニジュウ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナナスタディオント",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センリツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スルホド",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエカクニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッチ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 18,
+    "text": "形状や大きさにとどまらず、プラトンが描いたアトランティス周辺の地理的景観もまた、モーリタニアの衛星マップと5つの連続する詳細において奇妙に合致しています。",
+    "kana": "ケエジョオヤ'/オオキ'サニ/トドマラ'ズ、プ'ラトンガ/エガ'イタ/アトラン_ティスシュ'ウヘンノ/チリ'テ_キ/ケエカンモ'/マタ'、モオリタ'ニアノ/エエセエマ'ッ_プト/イツ'ツノ/レンゾ_ク'/スル'/ショオサイニ'/オ'イテ/キ'ミョオニ/ガッチ'/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ケエジョオヤ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オオキサニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トドマラズ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エガイタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスシュウヘンノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チリテキ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケエカンモ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モオリタニアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエセエマップト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イツツノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レンゾク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオサイニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オイテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キミョオニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガッチ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 19,
+    "text": "第1に全体地形です。プラトンは「都市の北側は壮大な山脈に守られ、南側は海に向かって開けた広大で平坦な平野が広がっている」と記しました。",
+    "kana": "ダイ'イチニ/ゼンタイ'/_チケエデ'_ス、プ'ラトンワ、ト'シノ/_キタガワワ'/ソオダイナ'/サンミャクニ'/マモ'ラレ、ミナミガワワ'/ウ'ミニ/ムカッテ'/アケタ'/コオダイデ'/ヘエタンナ'/ヘエヤガ'/ヒロガッテ'/イル'、ト'/シルシマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "ダイイチニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゼンタイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チケエデス",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トシノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キタガワワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソオダイナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンミャクニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マモラレ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミナミガワワ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウミニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ムカッテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アケタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオダイデ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘエタンナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘエヤガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒロガッテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シルシマシタ",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 20,
+    "text": "モーリタニアの3Dひょうこうモデルを見ると、リシャットの北側すぐ隣には切り立ったアドラール山脈がそびえ立ち、南側には大西洋へ向かって何百キロメートルも続く平坦な盆地が広がっています。",
+    "kana": "モオリタ'ニアノ/スリイディイヒョオコオモ'デルオ/ミ'ルト、リシャ'ットノ/_キタガワ'/ス'グ/トナリニワ'/キリタ'ッタ/アドラアルサ'ンミャクガ/ソビエタ'チ、ミナミガワニワ'/タイセ'エヨオエ/ムカッテ'/ナンビャッキロメ'エトルモ/ツズ_ク'/ヘエタンナ'/ボンチガ'/ヒロガッテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "モオリタニアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スリイディイヒョオコオモデルオ",
+        "accent": 10,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミルト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キタガワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スグ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トナリニワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キリタッタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アドラアルサンミャクガ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソビエタチ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミナミガワニワ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイセエヨオエ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ムカッテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナンビャッキロメエトルモ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツズク",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘエタンナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ボンチガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒロガッテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 21,
+    "text": "第2に水源です。プラトンは、中心の島から「温水と冷水という2つの地下水脈が湧き出していた」と述べています。",
+    "kana": "ダイ'ニニ/スイゲンデ'_ス、プ'ラトンワ、チュウシンノ'/シマ'カラ、オンスイト'/レエスイト'/イウ'/_フタツ'ノ/_チカス'イミャクガ/ワキダ'_シテ/イタ'、ト'/ノベ'テ/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ダイニニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイゲンデス",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマカラ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オンスイト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レエスイト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フタツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカスイミャクガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワキダシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノベテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 22,
+    "text": "驚くべきことに、リシャットの中心核における地質掘削調査により、かつて亀裂の入った石灰岩層を突き抜けて激しく噴出していた豊富な古代熱水地下水脈の存在が確認されています。",
+    "kana": "オドロ'クベ_キ/コト'ニ、リシャ'ットノ/チュウシン'カクニ/オケル'/_チシ_ツクッサ_クチョ'オサニ/ヨ'リ、カ'_ツテ/キレツノ'/ハ'イッタ/セッカイガン'ソオオ/_ツキヌケ'テ/ハゲシ'_ク/フン_シュツ'/_シテ'/イタ'/ホオフナ'/コダイネツ'スイ/_チカス'イミャクノ/ソンザイガ'/カクニン'/サレテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "オドロクベキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンカクニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オケル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツクッサクチョオサニ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨリ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カツテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キレツノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハイッタ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セッカイガンソオオ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツキヌケテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハゲシク",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フンシュツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホオフナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイネツスイ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカスイミャクノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カクニン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 23,
+    "text": "第3に建築資材です。プラトンは、アトランティス人が環状の陸地から石を切り出して建物を築き、その石には「黒、赤、そして白」の3つの特徴的な色があったと記録しています。",
+    "kana": "ダイ'サンニ/ケン_チクシ'ザイデ_ス、プ'ラトンワ、アトラン_ティス'ジンガ/カンジョオノ'/リ_クチカラ'/イシ'オ/キリダ_シテ'/タテ'モノオ/キズ'キ、ソノ'/イシ'ニワ、ク'ロ、ア'カ、ソ_シテ'/シ'ロ、ノ'/ミッツ'ノ/ト_クチョオ'テキナ/イロ'ガ/ア'ッタト/キロク'/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ダイサンニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンチクシザイデス",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスジンガ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リクチカラ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イシオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キリダシテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タテモノオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キズキ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イシニワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クロ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アカ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シロ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミッツノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トクチョオテキナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イロガ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アッタト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キロク",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 24,
+    "text": "リシャットの特異な地質構造は、まさにこの3種類の露出岩石で構成されています。黒い火山性玄武岩、酸化鉄を豊富に含んだ深紅の砂岩、そして純白の石灰岩と石英脈です。",
+    "kana": "リシャ'ットノ/トクイナ'/_チシ_ツコ'オゾオワ、マ'サニ/コノ'/サン'シュルイノ/ロ_シュツガ'ンセキデ/コオセエ'/サレテ'/イマ'_ス、クロ'イ/カザンセエ'/ゲンブ'ガン、サンカ'テツオ/ホオフニ'/_フク'ンダ/シ'ンクノ/サ'ガン、ソ_シテ'/ジュンパクノ'/セッカ'イガント/セキエエ'ミャクデ_ス",
+    "accentPhrases": [
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トクイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツコオゾオワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マサニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンシュルイノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロシュツガンセキデ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオセエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クロイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カザンセエ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンブガン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンカテツオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホオフニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フクンダ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンクノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サガン",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジュンパクノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セッカイガント",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セキエエミャクデス",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 25,
+    "text": "第4に鉱物資源です。プラトンは、アトランティスが金や銀、そして「オリハルコン」、燃えるような赤銅と呼ばれる伝説の金属に恵まれていたと讃えました。",
+    "kana": "ダイヨ'ンニ/コオブ_ツシ'ゲンデ_ス、プ'ラトンワ、アトラ'ン_ティスガ/キ'ンヤ/ギ'ン、ソ_シテ'、オリハ'ルコン、モエル'/ヨ'オナ/シャクドオト'/ヨバレル'/デンセツノ'/キ'ンゾクニ/メグマレテ'/イタ'ト/タタエマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "ダイヨンニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオブツシゲンデス",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キンヤ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ギン",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オリハルコン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モエル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シャクドオト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨバレル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デンセツノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キンゾクニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メグマレテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タタエマシタ",
+        "accent": 4,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 26,
+    "text": "そして今日、サハラの目を取り囲むモーリタニアの地には、アフリカ大陸最古かつ最大級の非鉄金属鉱山の一つであるゲルブ・モグレイン銅・金鉱山が存在しています。",
+    "kana": "ソ_シテ'/キョ'オ、サ'ハラノ/メ'オ/トリカコム'/モオリタ'ニアノ/チ'ニワ、アフリカタイリ_クサ'イコ/カ'_ツ/サイダイ'キュウノ/_ヒテ_ツキンゾ_クコ'オザンノ/_ヒト'ツデアル/ゲ'ルブ、モ'/グレイン'ドオ、キンコ'オザンガ/ソンザイ'/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トリカコム",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モオリタニアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チニワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アフリカタイリクサイコ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カツ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サイダイキュウノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒテツキンゾクコオザンノ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒトツデアル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲルブ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "グレインドオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キンコオザンガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 27,
+    "text": "地形、水源、岩石の色から鉱山に至るまで、次々と重なる一致の連鎖は、単なる偶然の確率を遥かに超えて誰もを驚嘆させます。",
+    "kana": "_チケエ'、スイゲン'、ガ'ンセキノ/イロ'カラ/コ'オザンニ/イタ'ルマデ、ツギ'ツギト/カサナル'/イッチノ'/レ'ンサワ、タ'ンナル/グウゼンノ'/カクリツオ'/ハ'ルカニ/コエテ'/ダ'レモオ/キョオタン'/サセマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "チケエ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイゲン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガンセキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イロカラ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオザンニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタルマデ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツギツギト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カサナル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッチノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レンサワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンナル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "グウゼンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カクリツオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハルカニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コエテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダレモオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオタン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サセマス",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 28,
+    "text": "しかし、ここで当然ながら最大の反論が投げかけられます。「もしアトランティスが船団を行き交わせた大海洋帝国であったなら、なぜリシャット構造は大西洋岸から400キロメートル以上も離れた不毛な砂漠の真ん中にあるのか？」と。",
+    "kana": "_シカ'シ、ココデ'/トオゼンナ'ガラ/サイダイノ'/ハンロンガ'/ナゲカケラレマ'_ス、モ'シ/アトラ'ン_ティスガ/センダンオ'/イ_キカ'ワセタ/ダイカイヨオテ'エコクデアッタナラ、ナ'ゼ/リシャットコ'オゾオワ/タイセエヨオ'ガンカラ/ヨンヒャッキロメ'エトル/イ'ジョオモ/ハ'ナレタ/フモオナ'/サバクノ'/マンナカニ'/ア'ル/ノカ'？、ト'",
+    "accentPhrases": [
+      {
+        "moras": "シカシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ココデ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トオゼンナガラ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サイダイノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハンロンガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナゲカケラレマス",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モシ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センダンオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イキカワセタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイカイヨオテエコクデアッタナラ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナゼ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットコオゾオワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイセエヨオガンカラ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンヒャッキロメエトル",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イジョオモ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハナレタ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フモオナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サバクノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マンナカニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノカ",
+        "accent": 2,
+        "isInterrogative": true
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 29,
+    "text": "その答えは、古気候学の画期的な発見の中にありました。サハラ砂漠は、太古からずっと死の砂の海だったわけではないのです。",
+    "kana": "ソノ'/コタ'エワ、コ_キコオ'ガクノ/カッ_キテキナ'/ハッケンノ'/ナ'カニ/アリマ'_シタ、サハラサ'バクワ、タ'イコカラ/ズット'/シ'ノ/スナノ'/ウ'ミダッタ/ワ'ケデワ/ナ'イ/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コタエワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コキコオガクノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カッキテキナ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナカニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アリマシタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラサバクワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイコカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ズット",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スナノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウミダッタ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワケデワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナイ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 30,
+    "text": "深海堆積物コアの分析と衛星の地中探査レーダー画像により、約1万5000年前から5000年前にかけて「緑のサハラ」、すなわちアフリカ湿潤期が存在したことが証明されました。",
+    "kana": "シンカイタイセキブ_ツ'/コ'アノ/ブンセ_キト'/エエセエノ'/_チチュウタンサレエダアガ'ゾオニ/ヨ'リ、ヤ'ク/イチマ'ン/ゴセン'ネン/マ'エカラ/ゴセン'ネン/マ'エニ/カケ'テ、ミ'ドリノ/サ'ハラ、スナ'ワチ/アフリカ_シツジュン'キガ/ソンザイ'/_シタ'/コト'ガ/ショオメエ'/サレマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "シンカイタイセキブツ",
+        "accent": 10,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コアノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ブンセキト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエセエノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チチュウタンサレエダアガゾオニ",
+        "accent": 11,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨリ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヤク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチマン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゴセンネン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゴセンネン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カケテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミドリノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スナワチ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アフリカシツジュンキガ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソンザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトガ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオメエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレマシタ",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 31,
+    "text": "当時、アフリカモンスーンの変動によってサハラ全域は鬱蒼とした森林と草原が広がる熱帯の楽園となり、ゾウ、キリン、カバが生息し、巨大な淡水湖が点在していました。",
+    "kana": "ト'オジ、アフリカモンス'ウンノ/ヘンドオニ'/ヨッテ'/サハラゼ'ンイキワ/ウッソオト'/_シタ'/シンリント'/ソオゲンガ'/ヒロガル'/ネッタイノ'/ラクエント'/ナ'リ、ゾ'オ、キリン'、カ'バガ/セエソ_ク'/シ'、キョダイナ'/タンスイミズウ'ミガ/テンザイ'/_シテ'/イマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "トオジ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アフリカモンスウンノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘンドオニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨッテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラゼンイキワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウッソオト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンリント",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソオゲンガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒロガル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ネッタイノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ラクエント",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナリ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゾオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キリン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カバガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエソク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンスイミズウミガ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テンザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 32,
+    "text": "さらに驚くべきことに、フランスの海洋学者たちは古代の巨大地下河川「タマンラセット川」の痕跡を発見しました。かつてリシャット周辺を滔々と流れ、大西洋へと直接注ぎ込んでいた大河です。",
+    "kana": "サ'ラニ/オドロ'クベ_キ/コト'ニ、フランスノ'/カイヨオガ_クシャ'タチワ/コ'ダイノ/キョダイ'/_チカカ'セン、タマンラセット'ガワ、ノ'/コンセキオ'/ハッケン'/シマ'_シタ、カ'_ツテ/リシャットシュ'ウヘンオ/トオトオト'/ナガレ'、タイセ'エヨオエト/チョ_クセ_ツ'/ツギコ'ンデ/イタ'/タ'イガデ_ス",
+    "accentPhrases": [
+      {
+        "moras": "サラニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オドロクベキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フランスノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイヨオガクシャタチワ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカカセン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タマンラセットガワ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コンセキオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カツテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットシュウヘンオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トオトオト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナガレ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイセエヨオエト",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョクセツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツギコンデ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイガデス",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 33,
+    "text": "この川の流量は現在のガンジス川に匹敵し、古代の軍船が大西洋からリシャットの内陸部へと直接航行できる深く広大な水上回廊を形成していました。",
+    "kana": "コノ'/カワ'ノ/リュウリョ'オワ/ゲ'ンザイノ/ガンジス'ガワニ/ヒッテ_キ'/シ'、コ'ダイノ/グンセンガ'/タイセ'エヨオカラ/リシャ'ットノ/ナイリク'ブエト/チョ_クセ_ツ'/コ'オコオ/デキ'ル/_フカ'_ク/コオダイナ'/スイジョオカ'イロオオ/ケエセエ'/_シテ'/イマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カワノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リュウリョオワ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゲンザイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガンジスガワニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒッテキ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "グンセンガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイセエヨオカラ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナイリクブエト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョクセツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオコオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デキル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フカク",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオダイナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイジョオカイロオオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケエセエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 34,
+    "text": "実際、サハラの目を取り囲むモーリタニアの砂漠中から、無数の貝殻、古代の海洋堆積物層、そして散乱した数千点もの先史時代の石器が発見されており、この地がかつて広大な水に覆われていた動かぬ証拠となっています。",
+    "kana": "ジッサイ'、サ'ハラノ/メ'オ/トリカコム'/モオリタ'ニアノ/サバ_クチュウカラ'、ムス'ウノ/カイガラ'、コ'ダイノ/カイヨオタイセキブツ'ソオ、ソ_シテ'/サンラン'/_シタ'/スウセン'テンモノ/センシジ'ダイノ/セッキガ'/ハッケン'/サレテ'/オ'リ、コノ'/チ'ガ/カ'_ツテ/コオダイナ'/ミズニ'/オオワレテ'/イタ'/ウゴカヌ'/ショオコト'/ナ'ッテ/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ジッサイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トリカコム",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モオリタニアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サバクチュウカラ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ムスウノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイガラ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイヨオタイセキブツソオ",
+        "accent": 10,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サンラン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウセンテンモノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センシジダイノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セッキガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オリ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カツテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオダイナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミズニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オオワレテ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウゴカヌ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオコト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナッテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 35,
+    "text": "これら数々の驚くべき一致を前にして、正統派の地質学界の公式見解はどうなっているのでしょうか？",
+    "kana": "コレ'ラ/カ'ズカズノ/オドロ'クベキ/イッチオ'/マ'エニ/_シテ'、セエトオハノ'/_チシツガ'ッカイノ/コオ_シキ'/ケンカイワ'/ド'オ/ナ'ッテ/イル'/ノデショオ'カ？",
+    "accentPhrases": [
+      {
+        "moras": "コレラ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カズカズノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オドロクベキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッチオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエトオハノ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツガッカイノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオシキ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンカイワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナッテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデショオカ",
+        "accent": 4,
+        "isInterrogative": true
+      }
+    ]
+  },
+  {
+    "index": 36,
+    "text": "アカデミズムの地質学者たちは、アトランティス説を断固として否定しています。彼らは、リシャット構造が1億年以上前の白亜紀に地下マグマが地殻を押し上げ、その後数億年にわたる自然侵食によって形成された「地質ドーム構造」であると証明しています。",
+    "kana": "アカデミ'ズムノ/_チシツガ_クシャ'タチワ、アトラン_ティス'セツオ/ダ'ンコト/_シテ'/_ヒテエ'/_シテ'/イマ'_ス、カ'レラワ、リシャットコ'オゾオガ/イチオク'ネン/イ'ジョオ/マ'エノ/ハ'ク/アキニ'/_チカマ'グマガ/_チカクオ'/オシアゲ'、ソノゴ'/スウオク'ネンニ/ワタル'/シゼン'/シンショクニ'/ヨッテ'/ケエセエ'/サレタ'、_チシツドオムコ'オゾオ、デ'アルト/ショオメエ'/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "アカデミズムノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツガクシャタチワ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスセツオ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダンコト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒテエ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カレラワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットコオゾオガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチオクネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イジョオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アキニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカマグマガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカクオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オシアゲ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノゴ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウオクネンニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワタル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シゼン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シンショクニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨッテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケエセエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チシツドオムコオゾオ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デアルト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオメエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 37,
+    "text": "彼らはこう反論します。「これらの環状岩石が1億年前のものであるなら、わずか1万1000年前に人類が建設した都市であるはずがない」と。",
+    "kana": "カ'レラワ/コ'オ/ハンロン'/シマ'_ス、コレ'ラノ/カンジョオガ'ンセキガ/イチオク'ネン/マ'エノ/モノ'デアルナラ、ワ'ズカ/イチマ'ン/セン'ネン/マ'エニ/ジ'ンルイガ/ケンセツ'/_シタ'/ト'シデアル/ハズガ'/ナ'イ、ト'",
+    "accentPhrases": [
+      {
+        "moras": "カレラワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハンロン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コレラノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンジョオガンセキガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチオクネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モノデアルナラ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワズカ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチマン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センネン",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジンルイガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンセツ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トシデアル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハズガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナイ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 38,
+    "text": "これは極めて強固な科学的証拠ですが、独立系研究者たちはこの問題を鮮やかに覆す説得力のある説明を提示しています。",
+    "kana": "コレワ'/キワ'メテ/キョ'オコナ/カガク'テ_キ/ショオコデ'_スガ、ドクリツ'ケエ/ケンキュウシャ'タチワ/コノ'/モンダイオ'/アザ'ヤカニ/_クツガ'エス/セットクリョ'クノ/ア'ル/セツメエオ'/テエジ'/_シテ'/イマ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "コレワ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キワメテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオコナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カガクテキ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ショオコデスガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドクリツケエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケンキュウシャタチワ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モンダイオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アザヤカニ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クツガエス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セットクリョクノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アル",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セツメエオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テエジ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 39,
+    "text": "古代の人々は、山そのものを一から作り出したり、40キロメートルもの砂漠の岩をゼロから削り出したりしたわけではありません。",
+    "kana": "コ'ダイノ/_ヒト'ビトワ、ヤマソ'ノモノオ/イチ'カラ/_ツクリダ_シタ'リ、ヨンジュッキロメ'エトルモノ/サバクノ'/イワ'オ/ゼ'ロカラ/ケズリダ_シタ'リ/_シタ'/ワケデワアリマセ'ン",
+    "accentPhrases": [
+      {
+        "moras": "コダイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒトビトワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヤマソノモノオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチカラ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツクリダシタリ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨンジュッキロメエトルモノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サバクノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イワオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゼロカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケズリダシタリ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワケデワアリマセン",
+        "accent": 8,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 40,
+    "text": "古代ナバテア人が自然の険しい岩山を利用してヨルダンの伝説都市ペトラを彫り上げたように、あるいはカッパドキアの火山岩を掘り抜いて地下じゅうはっそうにも及ぶデリンクユ地下都市を築いたように…",
+    "kana": "コダイナバテア'ジンガ/シゼンノ'/ケワシ'イ/イワヤマオ'/リヨオ'/_シテ'/ヨ'ルダンノ/デンセツ'ト_シペトラオ/ホリアゲタ'/ヨ'オニ、アル'イワ/カッパド'キアノ/カザ'ンガンオ/ホ'リヌイテ/_チカジュウ'/ハッソオニモ'/オヨブデ'/リンクユ_チカ'トシオ/キズ'イタ/ヨ'オニ",
+    "accentPhrases": [
+      {
+        "moras": "コダイナバテアジンガ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シゼンノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケワシイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イワヤマオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リヨオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨルダンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デンセツトシペトラオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホリアゲタ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アルイワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カッパドキアノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カザンガンオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホリヌイテ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チカジュウ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッソオニモ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オヨブデ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リンクユチカトシオ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キズイタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオニ",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 41,
+    "text": "先史時代のアトランティス文明は、リシャットの唯一無二の天然の同心円地質構造を見出し、そこを開拓してタマンラセット川へ通じる水路を整備することで、大自然の驚異を難攻不落の巨大な首都要塞へと仕立て上げたのではないでしょうか！",
+    "kana": "センシジ'ダイノ/アトラン_ティスブ'ンメエワ、リシャ'ットノ/ユ'イイツ/ム'ニノ/テンネンノ'/ドオシンエン_チシ_ツコ'オゾオオ/ミイダシ'、ソコオ'/カイタク'/_シテ'/タマンラセット'ガワエ/ツウジル'/ス'イロオ/セ'エビ/スル'/コト'デ、ダイシ'ゼンノ/キョ'オイオ/ナンコオフラクノ'/キョダイナ'/_シュトヨ'オサイエト/_シタテアゲタ'/ノデ'ワナイデショオカ",
+    "accentPhrases": [
+      {
+        "moras": "センシジダイノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスブンメエワ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ユイイツ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ムニノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "テンネンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドオシンエンチシツコオゾオオ",
+        "accent": 10,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミイダシ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソコオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイタク",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タマンラセットガワエ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ツウジル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイロオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セエビ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトデ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイシゼンノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオイオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナンコオフラクノ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュトヨオサイエト",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタテアゲタ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデワナイデショオカ",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 42,
+    "text": "では、もしその首都が実在したとすれば、一体いかなる大惨事がそれを一瞬にして人類の地図から消し去ったのでしょうか？",
+    "kana": "デ'ワ、モ'_シ/ソノ'/シュ'トガ/ジツザイ'/_シタ'ト/スレ'バ、イッタイ'/イカ'ナル/ダイサ'ンジガ/ソレオ'/イッシュンニ'/_シテ'/ジ'ンルイノ/チ'ズカラ/ケ_シ'/サ'ッタ/ノデショオ'カ？",
+    "accentPhrases": [
+      {
+        "moras": "デワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モシ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュトガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジツザイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スレバ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッタイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イカナル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイサンジガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソレオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッシュンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジンルイノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チズカラ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケシ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サッタ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデショオカ",
+        "accent": 4,
+        "isInterrogative": true
+      }
+    ]
+  },
+  {
+    "index": 43,
+    "text": "プラトンはその悲劇的な結末を、背筋の凍るような言葉で記録しています。「たった一度の昼と夜の恐怖のうちに、猛烈な地震と大洪水が襲来し、大地を呑み込んで渡ることのできない泥の海へと変えてしまった」と。",
+    "kana": "プ'ラトンワ/ソノ'/ヒゲキ'テキナ/ケツマツオ'、セ'スジノ/コオル'/ヨ'オナ/コトバ'デ/キロク'/_シテ'/イマ'_ス、タッタ'/イチ'ドノ/ヒル'ト/ヨ'ルノ/キョ'オフノ/ウチニ'、モオレツナ'/ジシント'/ダイコ'オズイガ/シュウライ'/シ'、ダ'イチオ/ノミコ'ンデ/ワタル'/コト'ノ/デキ'ナイ/ドロ'ノ/ウ'ミエト/カエテ'/シマ'ッタ、ト'",
+    "accentPhrases": [
+      {
+        "moras": "プラトンワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒゲキテキナ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケツマツオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "セスジノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨオナ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトバデ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キロク",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イマス",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タッタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチドノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒルト",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨルノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオフノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウチニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "モオレツナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジシント",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイコオズイガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュウライ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイチオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノミコンデ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワタル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "デキナイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドロノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウミエト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カエテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマッタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ト",
+        "accent": 1,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 44,
+    "text": "約1万1600年前、ソロンの9000年前という記述と完全に一致するこの時期、地球は「ヤンガードリアス期」の終焉に伴う壊滅的な気候激変に見舞われました。",
+    "kana": "ヤ'ク/イチマ'ンセン/ロッピャク'ネン/マ'エ、ソ'ロンノ/キュウセン'ネン/マ'エト/イウ'/キジュ_ツト'/カンゼンニ'/イッ_チ'/スル'/コノ'/ジ'キ、_チキュウワ'、ヤンガアドリアス'キ、ノ'/シュウエンニ'/トモナ'ウ/カイメツ'テキナ/_キコオゲ'_キヘンニ/ミマワレマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "ヤク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチマンセン",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ロッピャクネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソロンノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キュウセンネン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マエト",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キジュツト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンゼンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッチ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジキ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チキュウワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヤンガアドリアスキ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シュウエンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トモナウ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイメツテキナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キコオゲキヘンニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ミマワレマシタ",
+        "accent": 5,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 45,
+    "text": "北半球の巨大な氷河の突発的な大崩壊・融解により、高さ数百メートルに達する超巨大メガ津波が大西洋からアフリカ大陸の奥深くへと押し寄せました。",
+    "kana": "_キタハ'ンキュウノ/キョダイナ'/ヒョ'オガノ/トッパツ'テキナ/ダイホ'オカイ、ユウカイニ'/ヨ'リ、タカ'サ/スウヒャクメ'エトルニ/タッスル'/チョオキョ'ダイ/メガツ'ナミガ/タイセ'エヨオカラ/アフリカタ'イリクノ/オ_クフカ'クエト/オシヨセマ'_シタ",
+    "accentPhrases": [
+      {
+        "moras": "キタハンキュウノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒョオガノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "トッパツテキナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイホオカイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ユウカイニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヨリ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タカサ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スウヒャクメエトルニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タッスル",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チョオキョダイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メガツナミガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイセエヨオカラ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アフリカタイリクノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オクフカクエト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オシヨセマシタ",
+        "accent": 5,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 46,
+    "text": "サハラの目周辺の衛星画像を解析した地形学者たちは、この地域の岩肌全体が北西から南東という単一の方向に向かって巨大な水流侵食痕で削り取られていることを発見しました。地球を揺るがす大洪水が駆け抜けた明白な痕跡です。",
+    "kana": "サ'ハラノ/メシュ'ウヘンノ/エエセエガ'ゾオオ/カイセキ'/_シタ'/_チケエガ_クシャ'タチワ、コノ'/チ'イキノ/イワハダ'/ゼンタイガ'/ホ_クセエカラ'/ナントオト'/イウ'/タンイツノ'/ホオコオニ'/ムカッテ'/キョダイナ'/スイリュウシンショク'コンデ/ケズリト'ラレテ/イル'/コト'オ/ハッケン'/シマ'_シタ、_チキュウオ'/ユルガ'ス/ダイコ'オズイガ/カケヌケ'タ/メエハクナ'/コンセキデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メシュウヘンノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエセエガゾオオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイセキ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チケエガクシャタチワ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チイキノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イワハダ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ゼンタイガ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホクセエカラ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナントオト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タンイツノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ホオコオニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ムカッテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スイリュウシンショクコンデ",
+        "accent": 8,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ケズリトラレテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イル",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コトオ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シマシタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チキュウオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ユルガス",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイコオズイガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カケヌケタ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メエハクナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コンセキデス",
+        "accent": 5,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 47,
+    "text": "何百万トンもの海水の破壊的なエネルギーはあらゆる人工建造物を粉砕し、土砂を大洋へと押し流して、繁栄した大地を一瞬にしてえんでいの荒野へと変貌させました。そしてその後の乾燥化がサハラを永遠の砂漠に変え、千年の秘密を砂の下に封印したのです。",
+    "kana": "ナ'ンビャク/マン'トンモノ/カイスイノ'/ハカイ'テキナ/エネ'ルギイワ/アラユ'ル/ジンコオケンゾオブツオ'/フンサイ'/シ'、ド'シャオ/タイヨオエト'/オシナガ'_シテ、ハンエエ'/_シタ'/ダ'イチオ/イッシュンニ'/_シテ'/エ'ンデ/イ'ノ/アラノエト'/ヘンボオ'/サセマ'_シタ、ソ_シテ'/ソノゴノ'/カンソオカガ'/サ'ハラオ/エエエンノ'/サバクニ'/カエ'、セン'ネンノ/ヒミツオ'/スナノ'/_シタニ'/フウイン'/_シタ'/ノデ'_ス",
+    "accentPhrases": [
+      {
+        "moras": "ナンビャク",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "マントンモノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カイスイノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハカイテキナ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エネルギイワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アラユル",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジンコオケンゾオブツオ",
+        "accent": 11,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フンサイ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ドシャオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "タイヨオエト",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オシナガシテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハンエエ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイチオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イッシュンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エンデ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アラノエト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘンボオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サセマシタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソシテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソノゴノ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンソオカガ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サハラオ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "エエエンノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サバクニ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カエ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "センネンノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヒミツオ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スナノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "フウイン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "シタ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデス",
+        "accent": 2,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 48,
+    "text": "ではなぜ、今日に至るまで明確な人工のレンガや石壁の遺構が発見されていないのでしょうか？ その答えは、西アフリカの砂漠という極めて過酷な環境と辺境の立地ゆえに、リシャットの中心部では今日に至るまで「公式の大規模な学術発掘調査」が一度も行われていないからです。",
+    "kana": "デ'ワ/ナ'ゼ、キョ'オニ/イタ'ルマデ/メエカクナ'/ジンコオノ'/レ'ンガヤ/イ_シカベノ'/イコオガ'/ハッケン'/サレテ'/イナイ'/ノデショオ'カ？、ソノ'/コタ'エワ、ニシア'フリカノ/サバ_クト'/イウ'/キワ'メテ/カコクナ'/カンキョオト'/ヘンキョオノ'/リッチ'ユエニ、リシャ'ットノ/チュウシン'ブデワ/キョ'オニ/イタ'ルマデ、コオ_シキノ'/ダイ'キボナ/ガクジュ_ツハッ_クツチョ'オサ、ガ'/イチ'ドモ/オコナワレテ'/イナイ'カラデ_ス",
+    "accentPhrases": [
+      {
+        "moras": "デワ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ナゼ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタルマデ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メエカクナ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ジンコオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "レンガヤ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イシカベノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イコオガ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ハッケン",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サレテ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イナイ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノデショオカ",
+        "accent": 4,
+        "isInterrogative": true
+      },
+      {
+        "moras": "ソノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コタエワ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ニシアフリカノ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "サバクト",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イウ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キワメテ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カコクナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンキョオト",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ヘンキョオノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リッチユエニ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "チュウシンブデワ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョオニ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イタルマデ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コオシキノ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイキボナ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガクジュツハックツチョオサ",
+        "accent": 9,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ガ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イチドモ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オコナワレテ",
+        "accent": 6,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イナイカラデス",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  },
+  {
+    "index": 49,
+    "text": "サハラの目・リシャット構造、それは大自然が生み出した奇跡的な偶然にすぎないのか、それとも忘れ去られたアトランティス文明の巨大な石の墓標なのか？ ぜひあなたの考えをコメント欄で教えてください！",
+    "kana": "サ'ハラノ/メ'、リシャットコ'オゾオ、ソレワ'/ダイシ'ゼンガ/ウミダ'_シタ/_キセキ'テキナ/グウゼンニ'/スギ'ナイ/ノカ'、ソレトモ'/ワスレサ'ラレタ/アトラン_ティスブ'ンメエノ/キョダイナ'/イシ'ノ/ボヒョオナ'/ノカ'？、ゼ'ヒ/アナ'タノ/カンガ'エオ/コメント'ランデ/オシエテ'/クダサ'イ",
+    "accentPhrases": [
+      {
+        "moras": "サハラノ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "メ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "リシャットコオゾオ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソレワ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ダイシゼンガ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ウミダシタ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キセキテキナ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "グウゼンニ",
+        "accent": 5,
+        "isInterrogative": false
+      },
+      {
+        "moras": "スギナイ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノカ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ソレトモ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ワスレサラレタ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アトランティスブンメエノ",
+        "accent": 7,
+        "isInterrogative": false
+      },
+      {
+        "moras": "キョダイナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "イシノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ボヒョオナ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "ノカ",
+        "accent": 2,
+        "isInterrogative": true
+      },
+      {
+        "moras": "ゼヒ",
+        "accent": 1,
+        "isInterrogative": false
+      },
+      {
+        "moras": "アナタノ",
+        "accent": 2,
+        "isInterrogative": false
+      },
+      {
+        "moras": "カンガエオ",
+        "accent": 3,
+        "isInterrogative": false
+      },
+      {
+        "moras": "コメントランデ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "オシエテ",
+        "accent": 4,
+        "isInterrogative": false
+      },
+      {
+        "moras": "クダサイ",
+        "accent": 3,
+        "isInterrogative": false
+      }
+    ]
+  }
+]

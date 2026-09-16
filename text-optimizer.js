@@ -55,8 +55,15 @@ export const DEFAULT_DICTIONARY = [
   { pattern: /凝灰岩/g, replacement: "ぎょうかいがん", reason: "Khóa âm đá núi lửa ぎょうかいがん (gyoukaigan)" },
   { pattern: /外縁部/g, replacement: "がいえんぶ", reason: "Tránh nuốt âm gaienbu thành gaianbu" },
   { pattern: /標高/g, replacement: "ひょうこう", reason: "Khóa âm chuẩn độ cao (Hyōkō), tránh dính âm hyōgō" },
-  { pattern: /砂海/g, replacement: "さかい", reason: "Khóa âm chuẩn sa hải / biển cát (Sakai)" },
-  { pattern: /塩泥/g, replacement: "えんでい", reason: "Khóa âm thuật ngữ bùn muối địa chất (Endei)" },
+  { pattern: /端を発し/g, replacement: "たんを発し", reason: "Khóa âm chuẩn thành ngữ (tan wo hassuru), tránh đọc sai hashi" },
+  { pattern: /ティマイオス/g, replacement: "テイマイオス", reason: "Khóa âm chuẩn Timaeus bằng Te-i (tránh bị nhầm thành Ki)" },
+  { pattern: /てぃまいおす/g, replacement: "テイマイオス", reason: "Khóa âm chuẩn Timaeus bằng Te-i" },
+  { pattern: /クリティアス|クリテイアス|くりてぃあす/g, replacement: "くりてぃあす", reason: "Khóa âm chuẩn Hiragana Critias (ku-ri-ti-a-su), tránh nhầm âm ya" },
+  { pattern: /23点5キロメートル|23\.5キロメートル/g, replacement: "にじゅうさんてんごキロメートル", reason: "Khóa Hiragana liền khối đọc trơn tru không ngập ngừng" },
+  { pattern: /大西洋/g, replacement: "たいせいよう", reason: "Khóa âm Taiseiyō chuẩn xác, tránh nuốt trường âm cuối yō" },
+  { pattern: /白亜紀/g, replacement: "はくあき", reason: "Khóa âm kỷ Phấn Trắng (Hakuaki) liền mạch, tránh tách rời haku-aki" },
+  { pattern: /銅・金鉱山/g, replacement: "の銅金鉱山", reason: "Xóa dấu chấm giữa để đọc mượt mà không khựng" },
+  { pattern: /塩泥/g, replacement: "エンデイ", reason: "Khóa âm Katakana thuật ngữ bùn muối địa chất (Endei)" },
 ];
 
 /**

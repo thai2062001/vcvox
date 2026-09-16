@@ -1,7 +1,7 @@
 import fs from "fs";
 import { speakToFile } from "./voicevox.js";
 
-const targetIndices = [26, 36, 47];
+const targetIndices = [26, 27];
 const dir = "./output/script_richat_atlantis_ja";
 const manifestPath = `${dir}/manifest.json`;
 const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf-8"));
@@ -10,7 +10,7 @@ const raw = fs.readFileSync("./Scripts/script_richat_atlantis_ja.md", "utf-8");
 const lines = raw.split(/\r?\n/).map(l => l.trim()).filter(l => l && !l.startsWith("#"));
 
 async function rerenderFinalThree() {
-  console.log(`Re-rendering 3 câu cuối cùng: [026, 036, 047]...`);
+  console.log(`Re-rendering 2 câu vừa sửa: [026, 027]...`);
   for (const idx of targetIndices) {
     const text = lines[idx - 1];
     const fileName = `${String(idx).padStart(3, "0")}.wav`;

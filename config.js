@@ -1,1 +1,1 @@
-export const VOICEVOX_API_URL = "https://casino-circuit-strategic-everyday.trycloudflare.com";
+export const VOICEVOX_API_URL = "https://institutes-headers-candidates-bidder.trycloudflare.com";

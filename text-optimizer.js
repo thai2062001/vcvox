@@ -53,6 +53,10 @@ export const DEFAULT_DICTIONARY = [
   { pattern: /煮炊き/g, replacement: "にたき", reason: "Khóa âm nấu nướng にたき (nitaki)" },
   { pattern: /籠城/g, replacement: "ろうじょう", reason: "Khóa âm cố thủ trong thành ろうじょう (roujou)" },
   { pattern: /凝灰岩/g, replacement: "ぎょうかいがん", reason: "Khóa âm đá núi lửa ぎょうかいがん (gyoukaigan)" },
+  { pattern: /外縁部/g, replacement: "がいえんぶ", reason: "Tránh nuốt âm gaienbu thành gaianbu" },
+  { pattern: /標高/g, replacement: "ひょうこう", reason: "Khóa âm chuẩn độ cao (Hyōkō), tránh dính âm hyōgō" },
+  { pattern: /砂海/g, replacement: "さかい", reason: "Khóa âm chuẩn sa hải / biển cát (Sakai)" },
+  { pattern: /塩泥/g, replacement: "えんでい", reason: "Khóa âm thuật ngữ bùn muối địa chất (Endei)" },
 ];
 
 /**

@@ -44,25 +44,41 @@ function askQuestion(query) {
 }
 
 async function main() {
-  // 1. Xác định file script đầu vào
-  const scriptArg = process.argv[2] || "./Scripts/script.md";
+  // 1. Phân tích tham số dòng lệnh
+  const args = process.argv.slice(2);
+  let scriptArg = "./Scripts/script.md";
+  let customOutputDir = null;
+
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--out" || args[i] === "-o") {
+      customOutputDir = args[i + 1];
+      i++;
+    } else if (!args[i].startsWith("-")) {
+      scriptArg = args[i];
+    }
+  }
+
   const scriptPath = path.resolve(scriptArg);
 
   if (!fsSync.existsSync(scriptPath)) {
     console.error(`❌ Không tìm thấy file script tại: ${scriptPath}`);
+    console.log(`👉 Cách dùng: node batch-render.js <đường_dẫn_file_script> [--out <thư_mục_output>]`);
     process.exit(1);
   }
 
-  // 2. Tạo thư mục output riêng biệt theo tên file script
+  // 2. Tạo thư mục output riêng biệt theo tên file script (hoặc theo --out)
   const scriptBaseName = path.basename(scriptPath, path.extname(scriptPath));
-  const outputDir = path.resolve("./output", scriptBaseName);
+  const outputDir = customOutputDir 
+    ? path.resolve(customOutputDir) 
+    : path.resolve("./output", scriptBaseName);
+    
   await fs.mkdir(outputDir, { recursive: true });
 
   console.log("=".repeat(65));
   console.log(`🎬 BATCH VOICE RENDER - HỆ THỐNG TỰ ĐỘNG TẠO GIỌNG NÓI HÀNG LOẠT`);
   console.log("=".repeat(65));
   console.log(`📄 Kịch bản: ${path.basename(scriptPath)}`);
-  console.log(`📁 Thư mục kết quả riêng: ${outputDir}`);
+  console.log(`📁 Thư mục lưu audio riêng biệt: ${outputDir}`);
 
   // 3. Đọc và phân tích các câu trong kịch bản
   const rawContent = await fs.readFile(scriptPath, "utf-8");

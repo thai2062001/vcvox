@@ -1,11 +1,19 @@
 import fs from "fs";
 import path from "path";
 
-const dir = "./output/script";
+// Nhận thư mục cần kiểm tra từ tham số dòng lệnh, mặc định là ./output/script
+const dirArg = process.argv[2] || "./output/script";
+const dir = path.resolve(dirArg);
 const manifestPath = path.join(dir, "manifest.json");
 
+if (!fs.existsSync(dir)) {
+  console.error(`❌ Thư mục không tồn tại: ${dir}`);
+  console.log(`👉 Cách dùng: node check-audio-quality.js [đường_dẫn_thư_mục]`);
+  process.exit(1);
+}
+
 if (!fs.existsSync(manifestPath)) {
-  console.error("Manifest not found!");
+  console.error(`❌ Không tìm thấy manifest.json trong ${dir}`);
   process.exit(1);
 }
 
@@ -162,6 +170,7 @@ if (warnings.length > 0) {
   console.log("\n✅ 100% TẤT CẢ 75 FILE ĐỀU ĐẠT CHẤT LƯỢNG CAO NHẤT (EXCELLENT)!");
 }
 
-// Lưu toàn bộ bảng report chi tiết ra file json
-fs.writeFileSync("./output/script/quality_report.json", JSON.stringify(report, null, 2));
-console.log("\nĐã lưu chi tiết đánh giá 75 file vào ./output/script/quality_report.json");
+// Lưu toàn bộ bảng report chi tiết ra file json trong chính thư mục đó
+const reportSavePath = path.join(dir, "quality_report.json");
+fs.writeFileSync(reportSavePath, JSON.stringify(report, null, 2));
+console.log(`\nĐã lưu chi tiết đánh giá ${report.length} file vào ${reportSavePath}`);

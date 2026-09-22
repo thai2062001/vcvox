@@ -48,10 +48,18 @@ async function main() {
   const args = process.argv.slice(2);
   let scriptArg = "./Scripts/script.md";
   let customOutputDir = null;
+  let customSpeed = 0.9; // Mặc định tốc độ 0.9 cho giọng bedtime ấm áp, thư giãn
+  let customSpeaker = 13; // Giọng Ryusei
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--out" || args[i] === "-o") {
       customOutputDir = args[i + 1];
+      i++;
+    } else if (args[i] === "--speed" || args[i] === "-s") {
+      customSpeed = parseFloat(args[i + 1]);
+      i++;
+    } else if (args[i] === "--speaker") {
+      customSpeaker = parseInt(args[i + 1], 10);
       i++;
     } else if (!args[i].startsWith("-")) {
       scriptArg = args[i];
@@ -145,8 +153,8 @@ async function main() {
     const t0 = Date.now();
     await speakToFile({
       text: firstItem.optimizedText,
-      speakerId: 13, // Giọng nam trầm Aoyama Ryusei
-      speedScale: 1.1,
+      speakerId: customSpeaker,
+      speedScale: customSpeed,
       pitchScale: -0.02,
       intonationScale: 1.15,
       outputPath: firstItem.filePath,
@@ -212,8 +220,8 @@ async function main() {
     try {
       await speakToFile({
         text: item.optimizedText,
-        speakerId: 13,
-        speedScale: 1.1,
+        speakerId: customSpeaker,
+        speedScale: customSpeed,
         pitchScale: -0.02,
         intonationScale: 1.15,
         outputPath: item.filePath,
